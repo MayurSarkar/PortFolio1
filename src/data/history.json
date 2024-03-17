@@ -1,0 +1,16 @@
+[
+    {
+      "role": "Full Stack Intern",
+      "organisation": "IdealBet-Online",
+      "startDate": "July, 2023",
+      "endDate": "October, 2023",
+      "experiences":[
+        "Created UI Components",
+        "Implemented Stripe Payment Gateway",
+        "Exposure: ReactJS, TailwindCSS, PHP, MySQL, Python."
+      ],
+      "imageSrc": "history/idealbet.png"
+    }
+    
+  ]
+  

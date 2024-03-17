@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Department Management System",
+      "imageSrc": "projects/project.png",
+      "description": "MERN Application Made by Our Team for College.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Netflix-Clone",
+      "imageSrc": "projects/project.png",
+      "description": "Built to practice ReactJS, CSS and API Implementation.",
+      "skills": ["React", "CSS", "API", "FireBase"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Memories App",
+      "imageSrc": "projects/project.png",
+      "description": "Built Using ReactJS and MongoDB to build a Digital Diary.",
+      "skills": ["React", "CSS", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
