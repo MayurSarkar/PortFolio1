@@ -12,8 +12,8 @@ const Contact = () => {
             </div>
             <ul className={styles.links}>
                 <li className={styles.link}>
-                <a href="mailto:myemail@email.com"><img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" /></a>
-                    <a id={styles.contacttext} href="mailto:myemail@email.com">pabitrasarkar1964@gmail.com</a>
+                <a href="mailto:pabitrasarkar1964@gmail.com"><img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" /></a>
+                    <a id={styles.contacttext} href="mailto:pabitrasarkar1964@gmail.com">pabitrasarkar1964@gmail.com</a>
                 </li>
                 <li className={styles.link}>
                 <a href="https://www.linkedin.com/in/mayur-sarkar-286523221/"><img src={getImageUrl("contact/linkedinIcon.png")} alt="LinkedIn icon" /></a>
