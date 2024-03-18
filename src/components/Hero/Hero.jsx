@@ -11,7 +11,7 @@ const Hero = () => {
                     I'm a full-stack developer with expertise in React, ExpressJS, MongoDB,
                     NodeJS, MySQL and LARAVEL. Reach out if you'd like to learn more!
                 </p>
-                <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+                <a href="mailto:pabitrasarkar1964@gmail.com" className={styles.contactBtn}>
                     Contact Me
                 </a>
             </div>
